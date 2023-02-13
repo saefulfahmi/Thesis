@@ -1,6 +1,6 @@
 <form method="Post" action="">
 	<input type="text" name="s1" required placeholder="Input String 1">
-	<input type="text" name="s2" required placeholder="Input String 1">
+	<input type="text" name="s2" required placeholder="Input String 2">
 	<input type="submit" name="cek" value="Check Kemiripan">
 </form>
 <?php
